@@ -1,4 +1,6 @@
-<h2 style="text-align:center"> Hi👋, I'm Ujwal Kumar </2>
+<center>
+<h2> Hi👋, I'm Ujwal Kumar </2>
+</center>
 
 <!--
 **ujwalkumar1995/ujwalkumar1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
