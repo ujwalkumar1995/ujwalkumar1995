@@ -5,14 +5,15 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ujwalkumar1995&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://www.linkedin.com/in/ujwal-kumar-7b3570166" target="blank"></a> </p>
-
 ### Blogs posts
 - [GraphQL VS REST](https://dev.to/ujwalkumar95/graphql-vs-rest-3f42)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ujwal-kumar-7b3570166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujwalkumar1995" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ujwal-kumar-7b3570166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujwalkumar1995" height="30" width="40" /></a>
+  <a href="https://dev.to/ujwalkumar95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujwalkumar1995" height="30" width="40" /></a>
+  <a href="https://leetcode.com/ujwalkumar95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujwalkumar1995" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/11329126/ujwal-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujwalkumar1995" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
