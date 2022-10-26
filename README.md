@@ -17,10 +17,12 @@
   <a href="https://stackoverflow.com/users/11329126/ujwal-kumar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="ujwalkumar1995" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
+![Typescript](https://img.shields.io/badge/-Typescript-61DAFB?logo=typescript&logoColor=#3178C6&logoWidth=30)
 <p align="left"> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="docker" width="40" height="40"/> 
+
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Typescript-61DAFB?logo=typescript&logoColor=#3178C6&logoWidth=30" alt="typescript" width="50" height="20"/> 
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40"/> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic" width="60" height="20"/> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
