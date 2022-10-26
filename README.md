@@ -10,30 +10,30 @@
 
 - [GraphQL VS REST](https://dev.to/ujwalkumar1995/graphql-vs-rest-3f42)
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ujwal-kumar-7b3570166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujwalkumar1995" height="30" width="40" /></a>
-  <a href="https://dev.to/ujwalkumar1995" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="ujwalkumar1995" height="30" width="40" /></a>
-  <a href="https://leetcode.com/ujwalkumar95/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="ujwalkumar1995" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/11329126/ujwal-kumar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="ujwalkumar1995" height="30" width="40" /></a>
-</p>
+### Connect with me:
+  <a href="https://www.linkedin.com/in/ujwal-kumar-7b3570166" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic&logoWidth=15" alt="linkedin" height="20" /></a>
+  <a href="https://dev.to/ujwalkumar1995" target="blank"><img align="center" src="https://img.shields.io/badge/-dev.to-0A0A0A?logo=devdotto&logoColor=white&style=plastic&logoWidth=15" alt="ujwalkumar1995" height="20" /></a>
+  <a href="https://leetcode.com/ujwalkumar95/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=plastic&logoWidth=15" alt="ujwalkumar1995" height="20" /></a>
+  <a href="https://stackoverflow.com/users/11329126/ujwal-kumar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="ujwalkumar1995" height="20"/></a>
 
 ### Languages and Tools:
 
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=plastic&logoWidth=15)
+![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic&logoWidth=15)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic&logoWidth=15)
-<p align="left"> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Typescript-61DAFB?logo=typescript&logoColor=#3178C6&logoWidth=30" alt="typescript" width="50" height="20"/> 
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic" width="60" height="20"/> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-</p>
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=plastic&logoWidth=15)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=plastic&logoWidth=15)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=plastic&logoWidth=15)
+![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testinglibrary&logoColor=white&style=plastic&logoWidth=15)
+![TestCafe](https://img.shields.io/badge/-TestCafe-36B6E5?logo=testcafe&logoColor=white&style=plastic&logoWidth=15)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic&logoWidth=15)
+![Bamboo](https://img.shields.io/badge/-Bamboo-0052CC?logo=bamboo&logoColor=white&style=plastic&logoWidth=15)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic&logoWidth=15)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=plastic&logoWidth=15)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=plastic&logoWidth=15)
+![Java](https://img.shields.io/badge/-Java-F80000?&style=plastic&logoWidth=15)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=plastic&logoWidth=15)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=plastic&logoWidth=15)
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujwalkumar1995&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Ujwal's Most Used Languges" /></p>
 
