@@ -6,7 +6,7 @@
 [![@ujwalkumar1995's Holopin board](https://holopin.me/ujwalkumar1995)](https://holopin.io/@ujwalkumar1995)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ujwalkumar1995&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Blogs posts
+### Blog posts
 
 - [GraphQL VS REST](https://dev.to/ujwalkumar1995/graphql-vs-rest-3f42)
 
