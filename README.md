@@ -12,8 +12,8 @@
 
 ### Connect with me:
   <a href="https://www.linkedin.com/in/ujwal-kumar-7b3570166" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic&logoWidth=15" alt="linkedin" height="20" /></a>
-  <a href="https://dev.to/ujwalkumar1995" target="blank"><img align="center" src="https://img.shields.io/badge/-dev.to-0A0A0A?logo=devdotto&logoColor=white&style=plastic&logoWidth=15" alt="ujwalkumar1995" height="20" /></a>
   <a href="https://leetcode.com/ujwalkumar95/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=plastic&logoWidth=15" alt="ujwalkumar1995" height="20" /></a>
+  <a href="https://dev.to/ujwalkumar1995" target="blank"><img align="center" src="https://img.shields.io/badge/-dev.to-0A0A0A?logo=devdotto&logoColor=white&style=plastic&logoWidth=15" alt="ujwalkumar1995" height="20" /></a>
   <a href="https://stackoverflow.com/users/11329126/ujwal-kumar" target="blank"><img align="center" src="https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white&style=plastic&logoWidth=15" alt="ujwalkumar1995" height="20"/></a>
 
 ### Languages and Tools:
