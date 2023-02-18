@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Ujwal Kumar</h1> 
 <h3 align="center">Developer at Thoughtworks</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujwalkumar1995&label=Profile%20views&color=0e75b6&style=flat" alt="ujwalkumar1995" /></p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujwalkumar1995&label=Profile%20views&color=0e75b6&style=flat" alt="ujwalkumar1995" /></p> -->
 
 [![@ujwalkumar1995's Holopin board](https://holopin.me/ujwalkumar1995)](https://holopin.io/@ujwalkumar1995)
 
