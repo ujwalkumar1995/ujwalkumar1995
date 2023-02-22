@@ -36,7 +36,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=plastic&logoWidth=15)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=plastic&logoWidth=15)
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujwalkumar1995&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Ujwal's Most Used Languges" /></p>
+<!-- <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujwalkumar1995&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Ujwal's Most Used Languges" /></p> -->
 
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujwalkumar1995&show_icons=true&locale=en&theme=github_dark" alt="Ujwal's GitHub Stats" /></p>
 
