@@ -7,15 +7,15 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ujwalkumar1995&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-### Blog posts
-
-- [GraphQL VS REST](https://dev.to/ujwalkumar1995/graphql-vs-rest-3f42)
-- [useMemo VS useCallback](https://dev.to/ujwalkumar1995/usememo-vs-usecallback-49kd)
-
 ### Connect with me:
   <a href="https://www.linkedin.com/in/ujwal-kumar-7b3570166" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic&logoWidth=15" alt="linkedin" height="20" /></a>
   <a href="https://leetcode.com/ujwalkumar95/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=plastic&logoWidth=15" alt="ujwalkumar1995" height="20" /></a>
   <a href="https://dev.to/ujwalkumar1995" target="blank"><img align="center" src="https://img.shields.io/badge/-dev.to-0A0A0A?logo=devdotto&logoColor=white&style=plastic&logoWidth=15" alt="ujwalkumar1995" height="20" /></a>
+  
+### Blog posts
+
+- [GraphQL VS REST](https://dev.to/ujwalkumar1995/graphql-vs-rest-3f42)
+- [useMemo VS useCallback](https://dev.to/ujwalkumar1995/usememo-vs-usecallback-49kd)
 
 ### Languages and Tools:
 
