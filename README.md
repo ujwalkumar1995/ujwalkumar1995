@@ -17,6 +17,7 @@
 - [GraphQL VS REST](https://dev.to/ujwalkumar1995/graphql-vs-rest-3f42)
 - [useMemo VS useCallback](https://dev.to/ujwalkumar1995/usememo-vs-usecallback-49kd)
 - [Overview of Redux Concepts](https://dev.to/ujwalkumar1995/overview-of-redux-concepts-2068)
+- [Overview of Azure Kubernetes Services](https://dev.to/ujwalkumar1995/overview-of-azure-kubernetes-services-4kel)
 
 ### Languages and Tools:
 
